@@ -1,6 +1,6 @@
   # 💫 Sobre mim:
 
-:man_student: Atualmente, estou matriculado na [Trybe](https://github.com/tryber), onde finalizei o curso de frontend e estou progredindo no curso de backend. Paralelamente, estou ampliando meus conhecimentos em cibersegurança através do curso oferecido pelo Google.
+:man_student: Em janeiro de 2024 iniciei meus estudos sobre programação na [Trybe](https://www.betrybe.com/) através do curso de desenvolvimento full-stack. Paralelamente, estou fazendo o curso de cibersegurança na [Coursera](https://www.coursera.org/).
 <br>
 📫 E-mail para contato: angeloniemeyer97@gmail.com
 
