@@ -2,6 +2,7 @@
 
 :man_student: Em janeiro de 2024 iniciei meus estudos sobre programação na [Trybe](https://www.betrybe.com/) através do curso de desenvolvimento full-stack. Paralelamente, estou fazendo o curso de cibersegurança na [Coursera](https://www.coursera.org/).
 <br>
+<br>
 📫 E-mail para contato: angeloniemeyer97@gmail.com
 
 # 🌐 Redes Sociais:
