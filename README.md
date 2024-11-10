@@ -1,6 +1,6 @@
   # 💫 Sobre mim:
 
-:man_student: Em janeiro de 2024, decidi fazer uma transição de carreira e comecei meus estudos de programação na [Trybe](https://www.betrybe.com/), por meio do curso de desenvolvimento web. Desde então, venho aprofundando meus conhecimentos em linguagens de programação como JavaScript, Python e Java além de outras tecnologias/frameworks.
+:man_student: Em janeiro de 2024, decidi fazer uma transição de carreira e comecei meus estudos de programação na [Trybe](https://www.betrybe.com/), por meio do curso de desenvolvimento web. Desde então, venho aprofundando meus conhecimentos em linguagens de programação como JavaScript/TypeScript, Python e Java além de outras tecnologias/frameworks.
 <br>
 <br>
 📫 E-mail para contato: angeloniemeyer97@gmail.com
